@@ -3,8 +3,8 @@ Cookies
 Fernando Flores
 23/2/2018
 
-R
--
+R Markdown
+----------
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -22,14 +22,11 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-Python
-------
+Including Plots
+---------------
 
 You can also embed plots, for example:
 
 ![](cookies_info_files/figure-markdown_github/pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-SAS
----
